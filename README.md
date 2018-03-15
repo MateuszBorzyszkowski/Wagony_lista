@@ -10,3 +10,5 @@ Na bocznym torze stoi skład wagonów, który trzeba przygotować do podróży. 
 Zanim kolejarze zabiorą się do pracy, chcieliby wiedzieć, czy mają po co zaczynać. Program sprawdzający, czy dla danego ciągu wagonów, da się je uporządkować w kolejności rosnącej korzystając z jednej bocznicy.
 
 Stos zaimplementowany na liście jednokierunkowej.
+
+Program powinien wypisać TAK jeżeli możliwe jest uporządkowanie wagonów, w przeciwnym razie powinien wypisać NIE.
